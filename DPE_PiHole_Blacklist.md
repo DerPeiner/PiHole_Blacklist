@@ -14,3 +14,9 @@
 0.0.0.0 a.adforcast.com
 0.0.0.0 citadelpathstatue.com
 0.0.0.0 filter.realtime-bid.com
+0.0.0.0 blo.booseed.com
+0.0.0.0 yd.cottoidearldom.com
+0.0.0.0 bid.bidclickmedia.com
+0.0.0.0 allvideometrika.com
+0.0.0.0 rougepromisedtenderly.com
+0.0.0.0 cobalten.com
