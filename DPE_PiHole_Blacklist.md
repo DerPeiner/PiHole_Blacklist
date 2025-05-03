@@ -31,10 +31,19 @@ a.adforcast.com
 green-resultsbid.com
 ak.hetapus.com
 giersakr.com
+gobck.com
+creative.mnaspm.com
+chaturbate.com
+merkurbets.de
+play-lustgoddess.com
+etoro.com
+ey43.com
 
 
 
-#. List of differnt Blacklists i use
+
+
+#. List of different Blacklists i use
 
 
 
