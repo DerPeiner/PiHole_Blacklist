@@ -3,7 +3,7 @@
 #.         Use the List as you like
 #.
 #.        First Creation:  2024-06-09
-#.        Last Update:    2024-06-23
+#.        Last Update:    2025-05-07
 ###############################################################################
 
 #. Links to the Blacklists i use
@@ -38,6 +38,7 @@ merkurbets.de
 play-lustgoddess.com
 etoro.com
 ey43.com
+everlusting-games.com
 
 
 
