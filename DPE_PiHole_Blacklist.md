@@ -9,38 +9,38 @@
 #. Links to the Blacklists i use
 
 #. My personal Blacklist with Domains my Firewall had dedected
-linkadvdirect.com
-yy.puffexles.com
-holahupa.com
-disclosestockingsprestigious.com
-a.adforcast.com
-citadelpathstatue.com
-filter.realtime-bid.com
-blo.booseed.com
-yd.cottoidearldom.com
-bid.bidclickmedia.com
-allvideometrika.com
-rougepromisedtenderly.com
-cobalten.com
-alphaads.de
-hoproutepoint.cc
-lorlwithinfamlly.com
-thoohlzoogll.xyz
-ofleafeona.com
-a.adforcast.com
-green-resultsbid.com
-ak.hetapus.com
-giersakr.com
-gobck.com
-creative.mnaspm.com
-chaturbate.com
-merkurbets.de
-play-lustgoddess.com
-etoro.com
-ey43.com
-everlusting-games.com
-
-
+linkadvdirect.com$
+yy.puffexles.com$
+holahupa.com$
+disclosestockingsprestigious.com$
+a.adforcast.com$
+citadelpathstatue.com$
+filter.realtime-bid.com$
+blo.booseed.com$
+yd.cottoidearldom.com$
+bid.bidclickmedia.com$
+allvideometrika.com$
+rougepromisedtenderly.com$
+cobalten.com$
+alphaads.de$
+hoproutepoint.cc$
+lorlwithinfamlly.com$
+thoohlzoogll.xyz$
+ofleafeona.com$
+a.adforcast.com$
+green-resultsbid.com$
+ak.hetapus.com$
+giersakr.com$
+gobck.com$
+creative.mnaspm.com$
+chaturbate.com$
+merkurbets.de$
+play-lustgoddess.com$
+etoro.com$
+ey43.com$
+everlusting-games.com$
+theeverydaygame.com$
+cactusheadroomscaling.com$
 
 
 
