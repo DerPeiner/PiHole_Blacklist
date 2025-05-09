@@ -41,6 +41,9 @@ ey43.com$
 everlusting-games.com$
 theeverydaygame.com$
 cactusheadroomscaling.com$
+landing.lust-goddess-game.com$
+
+
 
 
 
